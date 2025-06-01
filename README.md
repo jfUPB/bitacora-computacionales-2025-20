@@ -2,6 +2,55 @@
 
 Esta bitácoras de aprendizaje buscan evidenciar tu proceso y tus resultados de aprendizaje.
 
+## Realización de actividades
+
+Cada unidad del curso tiene una carpeta asociada. Dentro de esa carpeta encontrarás las bitácoras de aprendizaje de cada una de las fases
+de la unidad:
+
+| Fase         | Enfoque                                                    | Qué se evidencia                                |
+| ------------ | ---------------------------------------------------------- | ----------------------------------------------- |
+| **Set-Seek** | Exploración del contexto y formulación de preguntas        | Comprensión inicial, intereses, hipótesis       |
+| **Apply**    | Aplicación de lo aprendido en contextos reales o simulados | Capacidad de análisis, uso integrado de saberes |
+| **Reflect**  | Evaluación y reconstrucción del conocimiento               | Metacognición, transferencia, juicio crítico    |
+
+Las bitácoras de cada fase de permitirán documentar tu proceso de aprendizaje y evidenciar tus procesos coginitivos y resultados 
+del aprendizaje. 
+
+Cada fase tiene actividades. Para reportar los resultados de esas actividades usarás este formato:
+
+``` md
+### Actividad XX
+Contenido de la actividad
+```
+
+Para insertar una imagen:
+
+``` md
+![decripción de la imagen](URL de la imagen)
+```
+Para insertar un hipervínculo:
+
+``` md
+[texto hipervinculado](URL del enlace)
+```
+
+Para insertar código
+
+  ```
+    ``` lenguaje
+      function setup(){
+      }
+    ```
+  ```
+
+En lenguaje puedes colocar: py para python, js para javascript, bash para comandos de consola, cpp para c++. Por ejemplo, para javascript:
+
+``` js
+function setup(){
+
+}
+```
+
 ## Consideraciones de diseño de la bitácora
 
 Para el diseño de estas bitácoras se consideró el modelo pedagógico integrado (MPI):
@@ -17,9 +66,7 @@ transformación que el estudiante hace del conocimiento desde la investiga­ció
 del mismo. Desde esta concepción de apren­dizaje se desprenden las lógicas de la en­señanza y sus didácticas que 
 posibiliten el aprendizaje significativo.
 
-
 ## Implicaciones
-
 
 ✔ No basta con saber contenido: debes demostrar que pueden usar ese conocimiento de forma integrada para resolver problemas reales.  
 ✔ La investigación no es un componente adicional, sino el motor del proceso de *aprender a aprender*.
@@ -31,20 +78,3 @@ tu propio proceso investigativo.
 ✔ Se favorecen metodologías activas.
 
 
-## Realización de actividades
-
-Cada unidad del curso tiene una carpeta asociada. Dentro de esa carpeta encontrarás las bitácoras de aprendizaje de cada una de las fases
-de la unidad:
-
-| Fase         | Enfoque                                                    | Qué se evidencia                                |
-| ------------ | ---------------------------------------------------------- | ----------------------------------------------- |
-| **Set-Seek** | Exploración del contexto y formulación de preguntas        | Comprensión inicial, intereses, hipótesis       |
-| **Apply**    | Aplicación de lo aprendido en contextos reales o simulados | Capacidad de análisis, uso integrado de saberes |
-| **Reflect**  | Evaluación y reconstrucción del conocimiento               | Metacognición, transferencia, juicio crítico    |
-
-Las bitácoras de cada fase de permitirán documentar tu proceso de aprendizaje y evidenciar tus procesos coginitivos y resultados 
-del aprendizaje. Cada fase tiene actividades para reportar los resultados de esas actividades usarás este formato:
-
-``` md
-
-```
